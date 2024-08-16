@@ -46,6 +46,15 @@ dependencies {
     androidTestImplementation(libs.androidx.junit)
     androidTestImplementation(libs.androidx.espresso.core)
 
+
+
+    implementation(libs.androidx.security.crypto)
+
     implementation("com.google.code.gson:gson:2.11.0")
+
     implementation("com.jakewharton.timber:timber:5.0.1")
+
+
+
+
 }
