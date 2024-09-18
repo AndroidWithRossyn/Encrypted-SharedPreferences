@@ -11,8 +11,8 @@ android {
         applicationId = "com.banrossyn.sharedprefexample"
         minSdk = 24
         targetSdk = 34
-        versionCode = 1
-        versionName = "1.0"
+        versionCode = 2
+        versionName = "1.01.03"
 
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
     }
@@ -46,15 +46,10 @@ dependencies {
     androidTestImplementation(libs.androidx.junit)
     androidTestImplementation(libs.androidx.espresso.core)
 
-
-
     implementation(libs.androidx.security.crypto)
 
-    implementation("com.google.code.gson:gson:2.11.0")
+    implementation(libs.gson)
 
-    implementation("com.jakewharton.timber:timber:5.0.1")
-
-
-
+    implementation(libs.timber)
 
 }
