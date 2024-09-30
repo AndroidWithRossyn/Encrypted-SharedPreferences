@@ -1,18 +1,17 @@
 <h1 align="center">Securing Android App with Encrypted SharedPreferences</h1>
 
 <p align="center">
-    <a href="https://play.google.com/store/apps/details?id=com.sumino.issave.storysaver.photovideo.downloader">
-      <img src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*pA-q5kPuCdZ1VzLAyXxFBg.jpeg" width="1280" />
+    <a href="">
+      <img src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*bir5xBeE4vxZnZPWSkP_2w.jpeg" width="1000" />
     </a>
   </p>
   
   
 <div align="center">
-<a href="https://t.me/banrossyn" target="_blank"><img src="https://img.shields.io/badge/Telegram-26A5E4.svg?logo=Telegram&logoColor=white"></a>
-<a href="https://wa.me/+919694260426/" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366.svg?logo=WhatsApp&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/banrossyn/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?logo=LinkedIn&logoColor=white"></a>
-<a href="mailto:banrossyn@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335.svg?logo=Gmail&logoColor=white"></a>
-<a href=https://www.instagram.com/androidwithrossyn/><img alt="insta" src="https://img.shields.io/badge/Instagram-E4405F.svg?logo=Instagram&logoColor=white"></a>
+
+![Stars](https://img.shields.io/github/stars/AndroidWithRossyn/Encrypted-SharedPreferences)
+![GitHub last commit](https://img.shields.io/github/last-commit/AndroidWithRossyn/Encrypted-SharedPreferences)
+![pv](https://pageview.vercel.app/?github_user=AndroidWithRossyn/Encrypted-SharedPreferences)
 <a href="https://medium.com/@banrossyn/securing-android-app-with-encrypted-sharedpreferences-8a5e98783485"><img alt="" src="https://img.shields.io/badge/Medium-000000.svg?logo=Medium&logoColor=white"></a>
 </div>
 
@@ -107,3 +106,7 @@ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
 ```
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</p>
